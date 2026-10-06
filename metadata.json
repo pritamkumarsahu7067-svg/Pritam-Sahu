@@ -1,0 +1,6 @@
+{
+  "name": "Smart Gym Log",
+  "description": "High-performance workout tracker and progressive overload gym log with rest timers, PR tracking, and routine history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
